@@ -1,0 +1,31 @@
+.contactForm {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  max-width: 350px;
+}
+
+.contactInput {
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.contactLabel {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+
+.btn {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.btn:hover{
+   background-color: gray;
+}

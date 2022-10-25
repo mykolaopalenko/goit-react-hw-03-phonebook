@@ -1,0 +1,32 @@
+.phoneTitle{
+   font-size: 36px;
+   font-weight: 500;
+   margin-top: 30px;
+}
+.item {
+    display: flex;
+    max-width: 350px;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.contactName{
+   display: flex;
+   align-items: center;
+}
+
+.contact {
+    margin-left: 10px;
+}
+
+.deleteBtn{
+   font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-right: 0px;
+}
+.deleteBtn:hover{
+   background-color: gray;
+}
